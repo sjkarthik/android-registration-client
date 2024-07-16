@@ -11,6 +11,7 @@ on:
       - develop
       - sprint-*
       - main
+      - onpremdev_*
 
 jobs:
   build-android:
